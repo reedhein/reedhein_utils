@@ -3,7 +3,7 @@ dev.db
 **/*.orig
 **/*.swp
 **/*.swo
-pkg
+pkg/*
 public/201*
 Gemfile
 Gemfile.lock
